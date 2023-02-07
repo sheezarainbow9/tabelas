@@ -7,4 +7,4 @@
 </p>
 
 
-# Material de estudos sobre tabelas e outros elementos de HTML e CSS3 pelo canal CursoemVídeo.
+Material de estudos sobre tabelas e outros elementos de HTML e CSS3 pelo canal CursoemVídeo.
